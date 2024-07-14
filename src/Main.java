@@ -1,9 +1,9 @@
 import easy.FindLuckyInteger.FindLuckyInteger;
 import medium.LongestPalindromicSubstring.LongestPalindromicSubstring;
+import medium.ReverseInteger.ReverseInteger;
 
 public class Main {
     public static void main(String[] args) {
-        String s = LongestPalindromicSubstring.Solution("ac");
-        System.out.println(s);
+        System.out.println(ReverseInteger.solution2(1534236469));
     }
 }
