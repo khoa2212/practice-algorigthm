@@ -1,4 +1,4 @@
-package ShuffleTheArray;
+package easy.ShuffleTheArray;
 
 public class ShuffleTheArray {
     public static int[] Solution(int[] nums, int n) {

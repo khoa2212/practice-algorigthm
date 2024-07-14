@@ -1,4 +1,4 @@
-package DeliveryFeeChallenge;
+package easy.DeliveryFeeChallenge;
 
 public class DeliveryFeeChallenge {
 

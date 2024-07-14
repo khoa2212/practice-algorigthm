@@ -1,10 +1,4 @@
-import DeliveryFeeChallenge.DeliveryFeeChallenge;
-import FindLuckyInteger.FindLuckyInteger;
-import MakeStringGreat.MakeStringGreat;
-import PlusOne.PlusOne;
-import TwoSum.TwoSum;
-
-import java.util.Arrays;
+import easy.FindLuckyInteger.FindLuckyInteger;
 
 public class Main {
     public static void main(String[] args) {

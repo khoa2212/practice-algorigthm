@@ -1,4 +1,4 @@
-package CountLargestGroup;
+package easy.CountLargestGroup;
 
 public class CountLargestGroup {
 
@@ -23,5 +23,6 @@ public class CountLargestGroup {
 
         // not correct
         // https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+        // https://leetcode.com/problems/remove-palindromic-subsequences/
     }
 }

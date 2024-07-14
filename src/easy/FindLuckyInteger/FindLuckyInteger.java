@@ -1,4 +1,4 @@
-package FindLuckyInteger;
+package easy.FindLuckyInteger;
 
 import java.util.HashMap;
 import java.util.Map;

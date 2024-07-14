@@ -1,6 +1,4 @@
-package ProductExceptSelf;
-
-import java.util.Arrays;
+package easy.ProductExceptSelf;
 
 // Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 

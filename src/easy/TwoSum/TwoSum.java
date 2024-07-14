@@ -1,9 +1,6 @@
-package TwoSum;
+package easy.TwoSum;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
 
 public class TwoSum {
     public static int[] Solution(int[] nums, int target) {

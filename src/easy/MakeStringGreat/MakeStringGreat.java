@@ -1,8 +1,6 @@
-package MakeStringGreat;
+package easy.MakeStringGreat;
 
 
-import java.util.Map;
-import java.util.Objects;
 import java.util.Stack;
 
 public class MakeStringGreat {
