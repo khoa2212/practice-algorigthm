@@ -4,6 +4,6 @@ import medium.ReverseInteger.ReverseInteger;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(ReverseInteger.solution2(1534236469));
+
     }
 }
